@@ -111,6 +111,13 @@ This Power BI dashboard provides comprehensive insights into the restaurant mark
 ## Page 4:
 <img width="1161" height="679" alt="4" src="https://github.com/user-attachments/assets/2e6dd8c1-6bc7-4801-9aa4-8971ca54e56b" />
 
+## Key Insights Summary
+- Service quality (1.09) is significantly lower than food quality (1.22), suggesting service improvement is the main opportunity for restaurants.
+- Restaurants offering Wine & Beer receive higher customer ratings.
+- Customer base is dominated by young students with medium budgets.
+- Restaurant price levels show limited influence on ratings.
+- A small group of restaurants consistently achieves outstanding ratings, indicating strong operational performance.
+
 ## Future Enhancements:
 - **Operational Strategy**: Do not waste capital on real estate with large parking lots. Instead, prioritize securing a liquor license (specifically for Wine & Beer) to increase ancillary revenue and elevate the perceived dining experience.
 - **Competitive Advantage**: Invest heavily in customer service training. Because the overall market is being dragged down by poor service scores (1.09), a budget-friendly restaurant that consistently delivers fast, friendly service will immediately stand out and easily capture market share.
